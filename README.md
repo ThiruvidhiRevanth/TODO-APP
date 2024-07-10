@@ -61,9 +61,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 5. **Deploy and Test**:
    - Deploy your app to test it.
 
-## Contributing
-
-Feel free to fork this repository and contribute by submitting a pull request. Any contributions are greatly appreciated!
 
 ## License
 
