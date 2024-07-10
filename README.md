@@ -63,6 +63,10 @@ Follow these instructions to get a copy of the project up and running on your lo
   
 ## Screenshots
 
+![](Screenshot_2024_0710_125903.jpg)
+![](Screenshot_2024_0710_130257.jpg)
+![](Screenshot_2024_0710_130318.jpg)
+
 
 
 
